@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587060335770",
+    "project_id": "sahbi-e180f",
+    "storage_bucket": "sahbi-e180f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587060335770:android:dbf766f685ce32b6493b23",
+        "android_client_info": {
+          "package_name": "com.example.sahbi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587060335770-npe630o6g654j8fjoipu0oofh4jf8b60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWVI8qmzI6aEyW7ka2gdMbuVrkaf5RPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587060335770-npe630o6g654j8fjoipu0oofh4jf8b60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
